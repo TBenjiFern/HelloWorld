@@ -4,12 +4,9 @@ This project is intended to be used as a starting point, a milestone, to practic
 <br/>
 To futher clarify, the hello.py file will print "Hello World" when run. (For window users type "py hello.py" into terminal. Mac users will use "python3 hello.py")
 
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 Below is a video demonstration of this repository's code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/-dIz3NAFTk4)
 
 # Development Environment
 
