@@ -1,23 +1,24 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project is intended to be used as a starting point, a milestone, to practice the incorporation of multiple programming components into a single github repository. In this case, we are including the staple "Hello World" Python file, README.md, Git, and Github together to model what future projects may look like.
+<br/>
+To futher clarify, the hello.py file will print "Hello World" when run. (For window users type "py hello.py" into terminal. Mac users will use "python3 hello.py")
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+
+Below is a video demonstration of this repository's code.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+* Visual Studio Code
+* Python Extension Tool (Version 3.9.5 64-bit)
+* Git
+* Github
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Github](https://github.com)
+* [Git Download Site](https://git-scm.com/download)
